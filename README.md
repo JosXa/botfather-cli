@@ -36,4 +36,4 @@ Commands:
 
 ## Multiple Telegram Accounts
 
-Using `$ botfather switch`, you can make use of multiple Telegram sessions, so that you can spread your bots across multiple accounts and circumvent the 20 bots per account limit.
+Using `$ botfather switch`, you can make use of multiple Telegram sessions, so that you can spread your bots across multiple accounts and circumvent the 20 bots per account limit. These sessions will be stored in a `~/.botfather-sessions` directory.
