@@ -1,5 +1,5 @@
 # botfather-cli
-A Command Line Interface for Telegram BotFather
+A Command Line Interface for Telegram BotFather written in Python3.6.
 
 ## Installation
 
