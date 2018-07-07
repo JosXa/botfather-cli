@@ -12,7 +12,7 @@ from tgintegration.containers.keyboard import NoButtonFound
 
 MAIN_SESSION_NAME = 'botfather-cli'
 config_location = Path('~/.botfather').expanduser()
-session_dir = Path('botfather-sessions').expanduser()
+session_dir = Path('~/.botfather-sessions').expanduser()
 session_dir.mkdir(exist_ok=True)
 
 # TODO
